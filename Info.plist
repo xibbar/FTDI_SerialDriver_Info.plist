@@ -4560,6 +4560,40 @@
 			<key>idVendor</key>
 			<integer>1027</integer>
 		</dict>
+		<key>SheevaPlug JTAGKey FT2232D A</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.FTDI.driver.FTDIUSBSerialDriver</string>
+			<key>IOClass</key>
+			<string>FTDIUSBSerialDriver</string>
+			<key>IOProviderClass</key>
+			<string>IOUSBInterface</string>
+			<key>bConfigurationValue</key>
+			<integer>1</integer>
+			<key>bInterfaceNumber</key>
+			<integer>0</integer>
+			<key>idProduct</key>
+			<integer>40591</integer>
+			<key>idVendor</key>
+			<integer>40584</integer>
+		</dict>
+		<key>SheevaPlug JTAGKey FT2232D B</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.FTDI.driver.FTDIUSBSerialDriver</string>
+			<key>IOClass</key>
+			<string>FTDIUSBSerialDriver</string>
+			<key>IOProviderClass</key>
+			<string>IOUSBInterface</string>
+			<key>bConfigurationValue</key>
+			<integer>1</integer>
+			<key>bInterfaceNumber</key>
+			<integer>1</integer>
+			<key>idProduct</key>
+			<integer>40591</integer>
+			<key>idVendor</key>
+			<integer>40584</integer>
+		</dict>
 		<key>SI Lambda 10-3</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
