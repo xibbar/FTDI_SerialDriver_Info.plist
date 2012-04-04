@@ -38,6 +38,40 @@
 	<string>10M2518</string>
 	<key>IOKitPersonalities</key>
 	<dict>
+ 		<key>BeagleBone XDS100v2 JTAG</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.FTDI.driver.FTDIUSBSerialDriver</string>
+			<key>IOClass</key>
+			<string>FTDIUSBSerialDriver</string>
+			<key>IOProviderClass</key>
+			<string>IOUSBInterface</string>
+			<key>bConfigurationValue</key>
+			<integer>1</integer>
+			<key>bInterfaceNumber</key>
+			<integer>0</integer>
+			<key>idProduct</key>
+			<integer>42704</integer>
+			<key>idVendor</key>
+			<integer>1027</integer>
+		</dict>
+		<key>BeagleBone XDS100v2 Serial</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.FTDI.driver.FTDIUSBSerialDriver</string>
+			<key>IOClass</key>
+			<string>FTDIUSBSerialDriver</string>
+			<key>IOProviderClass</key>
+			<string>IOUSBInterface</string>
+			<key>bConfigurationValue</key>
+			<integer>1</integer>
+			<key>bInterfaceNumber</key>
+			<integer>1</integer>
+			<key>idProduct</key>
+			<integer>42704</integer>
+			<key>idVendor</key>
+			<integer>1027</integer>
+		</dict>
 		<key>485USBTB-4W</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
